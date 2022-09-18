@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshitijsharma3006
-- 👀 I’m interested in Machine Learning/Deep Learning, Control Systems, Robotics, Circuit Designing
+- 👀 I’m interested in Machine Learning/Deep Learning, Control Systems, Embedded Systems, Robotics and Circuit Designing
 - 🌱 I’m currently learning Natural Language Processing in Tensorflow
 - 📫 You can reach me at kshitij.sharma3006@gmail.com
 
